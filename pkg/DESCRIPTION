@@ -1,0 +1,11 @@
+Package: rfFC
+Type: Package
+Title: randomForest Feature Contributions 
+Version: 1.0
+Date: 2013-01-24
+Author: Anna Palczewska <annawojak@gmail.com>, Richard Marchese Robinson <rmarcheserobinson@gmail.com>
+Maintainer: Anna Palczewska  <annawojak@gmail.com>
+Depends: R (>= 2.13), randomForest
+Description: Random Forest Feature Contribution
+License: GPL (version 2 or later)
+LazyLoad: yes
