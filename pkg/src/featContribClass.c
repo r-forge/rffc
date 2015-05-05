@@ -170,6 +170,8 @@ void fContribClass(double *data, int *nrColumn, int *nrRow,
 		idx1 += *maxNodeNumber; /* increment the offset */ 
 		idx2 += *maxNodeNumber * *nrClass;
     }
+    for (int i = (*nrRow) * (*nrColumn) - 1; i >= 0; i--)
+		contrib[i] /= *nTrees;	
 			   
 }
 

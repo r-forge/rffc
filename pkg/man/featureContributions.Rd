@@ -57,9 +57,10 @@ featureContributions(object, lInc, dataT, mClass=NULL)
 \references{
 V.E. Kuz'min  et al. (2011), Interpretation of QSAR  Models Based on Random Forest Methods, \emph{Molecular Informatics}, 30, 593-603.\cr 
 A. Palczewska et al. (2013), Interpreting random forest models using a feature contribution method, \emph{ Proceedings of the 2013 IEEE 14th 
-International Conference on Information Reuse and Integration IEEE IRI 2013}, August 14-16, 2013, San Francisco, California, USA, 112-119.
-
+International Conference on Information Reuse and Integration IEEE IRI 2013}, August 14-16, 2013, San Francisco, California, USA, 112-119. \cr
+A. Palczewska et al. (2014), Interpreting random forest classification models using a feature contribution method. \emph{in Integration of Reusable Systems, ser. Advances in Intelligent and Soft Computing}, T. Bouabana-Tebibel and S. H. Rubin, Eds. Springer International Publishing, 263, 193-218. 
 }
+
 \author{
 Anna Palczewska \email{annawojak@gmail.com}    and\cr 
 Richard  Marchese Robinson   \email{rmarcheserobinson@gmail.com}
